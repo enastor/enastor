@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ericksson Nastor</h1>
 <h3 align="center">A passionate backend developer from the Philippines</h3>
-- 🎓 Bachelor of Science in Computer Science
+- 🎓 I’m a graduate in **Bachelor of Science in Computer Science**
 
 - 🌱 I’m currently learning **Web dev online courses**
 
