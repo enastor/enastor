@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ericksson Nastor</h1>
-<h3 align="center">A passionate backend developer from the Philippines</h3>
+<h3 align="center">A passionate full-stack developer from the Philippines</h3>
 
 - 🎓 I’m a graduate in **Bachelor of Science in Computer Science**
 
