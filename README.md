@@ -3,7 +3,7 @@
 
 - 🎓 I’m a graduate in **Bachelor of Science in Computer Science**
 
-- 🌱 I’m currently taking **Online Courses for Web Development**
+- 🌱 I’m currently learning **ReactJS & NodeJS**
 
 - 📫 How to reach me **ericksson.codes@gmail.com**
 
