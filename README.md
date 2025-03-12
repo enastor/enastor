@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ericksson.codes@gmail.com**
 
-- ⚡ Fun fact **I think I am enthusiastic**
+- ⚡ Fun fact **I was a professional swimmer and e-sports player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
